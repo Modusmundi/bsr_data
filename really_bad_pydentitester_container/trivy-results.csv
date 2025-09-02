@@ -1,0 +1,2 @@
+Results Set,Status,ID,Title,Description,Descriptions,Impact,Severity,Code,Check,Fix,800-53 Controls,CCI IDs,Results,Waived,Waiver Data
+trivy-results.hdf.json,Passed,Trivy/CVE-0000-0000,No findings at this time,This is a stub file generated due to a lack of results from trivy because zero CVEs were found.,,0,N/A,,,"No fixes needed, good work.",,,,FALSE,
